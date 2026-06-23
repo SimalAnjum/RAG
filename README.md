@@ -26,7 +26,7 @@ The system serves as a prototype for applications requiring accurate information
 ### 3. Project Structure
 
 ```
-RAG-with-AWS-main/
+RAG-main/
 ├── app/
 ├── datasets/
 │   └── cuad_raw/
